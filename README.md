@@ -10,9 +10,9 @@ This course is designed to take you through the fundamental concepts of Python p
 
 - Basics of Python syntax
 - Data types and variables
+- python operations
 - Control structures and loops
 - Functions and modules
-- ... (add more topics as needed)
 
 ## Getting Started
 
